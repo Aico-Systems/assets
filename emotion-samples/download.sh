@@ -7,7 +7,7 @@
 #   ODbL 1.0 licence — attribution + share-alike on derived databases.
 #
 # We pull a tiny labelled subset (3 actors × 6 emotions × 2 sentences = 36
-# clips, ~2 MB total) to drive `stt/test_emotion.py`. Files keep their
+# clips, ~2 MB total) to drive `stt/tests/verify_emotion.py`. Files keep their
 # upstream names so the ground-truth emotion is parseable from the path.
 #
 # Re-runnable + idempotent (curl with --create-dirs --continue-at -).

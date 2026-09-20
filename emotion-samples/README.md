@@ -1,6 +1,6 @@
 # emotion-samples
 
-Curated CREMA-D subset used by `stt/test_emotion.py` to smoke-test the
+Curated CREMA-D subset used by `stt/tests/verify_emotion.py` to smoke-test the
 paralinguistic engine end-to-end. Not committed — fetch with:
 
 ```bash
